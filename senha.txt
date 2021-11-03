@@ -1,0 +1,8 @@
+usuario_landing_page
+iqiFSz4jxgXgQSxc
+cluster0.qpel2.mongodb.net
+27017
+mongodb+srv://usuario_landing_page:<iqiFSz4jxgXgQSxc>@cluster0.qpel2.mongodb.net/strapi_landing_page?retryWrites=true&w=majority
+
+
+usar npm run develop para abrir
